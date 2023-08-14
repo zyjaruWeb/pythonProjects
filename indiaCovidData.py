@@ -16,7 +16,7 @@ else:
     exit()
 
 # Database connection parameters
-server = 'DESKTOP-31RCNP5'
+server = SQLServerName
 database = 'pythonTables'
 # username = 'your_username'
 # password = 'your_password'
